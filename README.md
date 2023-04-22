@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cemal</h1>
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cemalturkcan?tab=repositories](https://github.com/cemalturkcan?tab=repositories)
 
